@@ -1,0 +1,20 @@
+{
+  "name": "Shock IT Studio web app",
+  "short_name": "Shock IT Studio",
+  "start_url": "./index.html",
+  "theme_color": "#7DB1D0",
+  "background_color": "#7DB1D0",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./images/ShockIT_logo_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/ShockIT_logo_144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
